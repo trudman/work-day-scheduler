@@ -11,7 +11,11 @@ function saveToLs(e) {
 
 function loadLs() {
   var hours = JSON.parse(localStorage.getItem("Scheduler"));
-  console.log(hours);
+  for (var hour in hours) {
+    $("#" + hour)
+      .children("textarea")
+      .val(hours[hour]);
+  }
 }
 
 function timeCompare() {
