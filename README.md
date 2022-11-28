@@ -13,7 +13,7 @@ To use this scheduler the user can enter in their tasks for the corresponding bl
 [Link]https://trudman.github.io/work-day-scheduler/
 
 ![Screenshot](assets/Screenshot%202022-11-28%20at%205.36.22%20PM.png)
-![Screenshot](assets/Screenshot%202022-11-28%20at%205.36.32%20PM.png
+![Screenshot](assets/Screenshot%202022-11-28%20at%205.36.32%20PM.png)
 
 Credit
 None
